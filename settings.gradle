@@ -1,0 +1,4 @@
+include 'PackageService'
+include 'PackageService.Core'
+include 'PackageService.Client'
+
